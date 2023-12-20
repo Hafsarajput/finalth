@@ -1,0 +1,8 @@
+/* styles.css */
+.navbar-background {
+    background-image: url('../assets/imgs/Rectangle\ 49.png');
+    background-size: cover; /* Adjust as per your requirement */
+    background-position: center center; /* Adjust as per your requirement */
+    /* Other styles */
+  }
+  
